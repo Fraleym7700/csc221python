@@ -1,2 +1,2 @@
 # csc221python
-Python
+Michael Fraley
